@@ -1,0 +1,20 @@
+[00:01:12] [Server thread/INFO]: Unpelorin was slain by Enderman
+[00:02:16] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
+[00:02:16] [Server thread/INFO]: LEOScarletGrace left the game
+[00:02:51] [Server thread/INFO]: akipipi lost connection: Disconnected
+[00:02:51] [Server thread/INFO]: akipipi left the game
+[01:03:16] [Server thread/INFO]: Unpelorin lost connection: Disconnected
+[01:03:16] [Server thread/INFO]: Unpelorin left the game
+[01:03:17] [Server thread/INFO]: mochimochi49 lost connection: Disconnected
+[01:03:17] [Server thread/INFO]: mochimochi49 left the game
+[01:03:57] [Server thread/INFO]: Stopping the server
+[01:03:57] [Server thread/INFO]: Stopping server
+[01:03:57] [Server thread/INFO]: Saving players
+[01:03:57] [Server thread/INFO]: Saving worlds
+[01:03:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:03:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:03:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
