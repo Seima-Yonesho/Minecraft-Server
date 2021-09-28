@@ -612,6 +612,7 @@
       "minecraft:creeper": "2021-09-23 20:21:50 +0900",
       "minecraft:slime": "2021-09-23 20:37:28 +0900",
       "minecraft:witch": "2021-09-21 00:09:20 +0900",
+      "minecraft:husk": "2021-09-27 22:49:57 +0900",
       "minecraft:zombie": "2021-09-10 16:10:42 +0900",
       "minecraft:drowned": "2021-09-10 16:48:36 +0900"
     },
@@ -1817,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-09-27 21:58:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-09-20 22:41:49 +0900"
@@ -2109,6 +2116,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-09-18 14:27:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-09-27 21:58:16 +0900"
     },
     "done": true
   },
@@ -2925,6 +2938,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2021-09-22 22:09:32 +0900",
+      "textures/entity/cat/white.png": "2021-09-27 23:20:20 +0900",
+      "textures/entity/cat/jellie.png": "2021-09-27 22:55:10 +0900",
       "textures/entity/cat/siamese.png": "2021-09-22 22:35:21 +0900",
       "textures/entity/cat/all_black.png": "2021-09-23 19:57:02 +0900",
       "textures/entity/cat/red.png": "2021-09-22 21:56:43 +0900",
@@ -3043,6 +3058,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-18 13:39:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2021-09-27 21:46:21 +0900"
     },
     "done": true
   },
