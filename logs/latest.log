@@ -1,24 +1,15 @@
-[00:04:08] [Server thread/INFO]: koyasu1116 lost connection: Disconnected
-[00:04:08] [Server thread/INFO]: koyasu1116 left the game
-[00:07:56] [Server thread/INFO]: mochimochi49 lost connection: Disconnected
-[00:07:56] [Server thread/INFO]: mochimochi49 left the game
-[00:08:04] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
-[00:08:04] [Server thread/INFO]: LEOScarletGrace left the game
-[00:08:12] [Server thread/INFO]: akipipi lost connection: Disconnected
-[00:08:12] [Server thread/INFO]: akipipi left the game
-[00:10:01] [Server thread/INFO]: There are 1 of a max of 20 players online: asuberu
-[00:27:44] [Server thread/INFO]: Villager Villager['Librarian'/26150, l='ServerLevel[world]', x=-2723.38, y=67.00, z=-1478.44] died, message: 'Librarian burned to death'
-[00:40:37] [Server thread/INFO]: Villager Villager['Librarian'/1609, l='ServerLevel[world]', x=-2724.33, y=67.00, z=-1485.49] died, message: 'Librarian was impaled by Drowned'
-[01:35:42] [Server thread/INFO]: asuberu lost connection: Disconnected
-[01:35:42] [Server thread/INFO]: asuberu left the game
-[01:38:19] [Server thread/INFO]: Stopping the server
-[01:38:20] [Server thread/INFO]: Stopping server
-[01:38:20] [Server thread/INFO]: Saving players
-[01:38:20] [Server thread/INFO]: Saving worlds
-[01:38:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:38:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:38:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:38:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:38:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:38:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:38:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:37] [Server thread/INFO]: Unpelorin lost connection: Disconnected
+[00:00:37] [Server thread/INFO]: Unpelorin left the game
+[00:01:55] [Server thread/INFO]: asuberu lost connection: Disconnected
+[00:01:55] [Server thread/INFO]: asuberu left the game
+[00:02:22] [Server thread/INFO]: Stopping the server
+[00:02:22] [Server thread/INFO]: Stopping server
+[00:02:22] [Server thread/INFO]: Saving players
+[00:02:22] [Server thread/INFO]: Saving worlds
+[00:02:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:02:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:02:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:02:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
