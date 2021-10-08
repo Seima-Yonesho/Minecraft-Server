@@ -1,132 +1,130 @@
-[0710ŒŽ2021 20:43:13.026] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.0.53, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
-[0710ŒŽ2021 20:43:13.037] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.2 by Oracle Corporation
-[0710ŒŽ2021 20:43:13.065] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness]
-[0710ŒŽ2021 20:43:13.094] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
-[0710ŒŽ2021 20:43:13.114] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [eventbus,object_holder_definalize,runtime_enum_extender,capability_inject_definalize,accesstransformer,runtimedistcleaner]
-[0710ŒŽ2021 20:43:13.134] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
-[0710ŒŽ2021 20:43:13.153] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: java.util.stream.ReferencePipeline$3@5b67bb7e
-[0710ŒŽ2021 20:43:13.177] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [fml]
-[0710ŒŽ2021 20:43:13.178] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
-[0710ŒŽ2021 20:43:13.179] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
-[0710ŒŽ2021 20:43:13.185] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
-[0710ŒŽ2021 20:43:13.185] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
-[0710ŒŽ2021 20:43:13.185] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 9.0.7+91+master.8569cdf
-[0710ŒŽ2021 20:43:13.187] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
-[0710ŒŽ2021 20:43:13.188] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 5.0.3+70+master.d7d405b
-[0710ŒŽ2021 20:43:13.189] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
-[0710ŒŽ2021 20:43:13.193] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.0.1+15+master.dc5a2922
-[0710ŒŽ2021 20:43:13.194] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 4.0.9+23+master.71a605a
-[0710ŒŽ2021 20:43:13.194] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 4
-[0710ŒŽ2021 20:43:13.199] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
-[0710ŒŽ2021 20:43:13.200] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
-[0710ŒŽ2021 20:43:13.214] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
-[0710ŒŽ2021 20:43:13.216] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
-[0710ŒŽ2021 20:43:13.216] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
-[0710ŒŽ2021 20:43:13.218] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1
-[0710ŒŽ2021 20:43:13.220] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\bulei\MinecraftServer\Forge-1.17.1
-[0710ŒŽ2021 20:43:13.221] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods
-[0710ŒŽ2021 20:43:13.221] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods
-[0710ŒŽ2021 20:43:13.222] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1\config
-[0710ŒŽ2021 20:43:13.222] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\bulei\MinecraftServer\Forge-1.17.1\config
-[0710ŒŽ2021 20:43:13.223] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\fml.toml
-[0710ŒŽ2021 20:43:13.223] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
-[0710ŒŽ2021 20:43:13.312] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing default config directory directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1\defaultconfigs
-[0710ŒŽ2021 20:43:13.313] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
-[0710ŒŽ2021 20:43:13.319] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
-[0710ŒŽ2021 20:43:13.320] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using forgeserver as launch service
-[0710ŒŽ2021 20:43:13.360] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : VersionInfo[forgeVersion=37.0.53, mcVersion=1.17.1, mcpVersion=20210706.113038, forgeGroup=net.minecraftforge]
-[0710ŒŽ2021 20:43:13.365] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
-[0710ŒŽ2021 20:43:13.365] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
-[0710ŒŽ2021 20:43:13.367] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
-[0710ŒŽ2021 20:43:13.368] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
-[0710ŒŽ2021 20:43:13.370] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
-[0710ŒŽ2021 20:43:13.370] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
-[0710ŒŽ2021 20:43:13.389] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
-[0710ŒŽ2021 20:43:13.394] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
-[0710ŒŽ2021 20:43:13.993] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar
-[0710ŒŽ2021 20:43:14.061] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar with {cutallsmp} mods - versions {2.5.2}
-[0710ŒŽ2021 20:43:14.066] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[35,)]]
-[0710ŒŽ2021 20:43:14.068] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar
-[0710ŒŽ2021 20:43:14.071] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar with {digallsmp} mods - versions {2.3.3}
-[0710ŒŽ2021 20:43:14.072] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[35,)]]
-[0710ŒŽ2021 20:43:14.072] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar
-[0710ŒŽ2021 20:43:14.075] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar with {mineallsmp} mods - versions {2.6.7}
-[0710ŒŽ2021 20:43:14.076] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[35,)]]
-[0710ŒŽ2021 20:43:14.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file server-1.17.1-20210706.113038-srg.jar with {minecraft} mods - versions {1.17.1}
-[0710ŒŽ2021 20:43:14.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\libraries\net\minecraft\server\1.17.1-20210706.113038\server-1.17.1-20210706.113038-srg.jar with languages [LanguageSpec[languageName=minecraft, acceptedVersions=1]]
-[0710ŒŽ2021 20:43:14.078] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\libraries\net\minecraftforge\forge\1.17.1-37.0.53\forge-1.17.1-37.0.53-universal.jar
-[0710ŒŽ2021 20:43:14.083] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.17.1-37.0.53-universal.jar with {forge} mods - versions {37.0.53}
-[0710ŒŽ2021 20:43:14.083] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\libraries\net\minecraftforge\forge\1.17.1-37.0.53\forge-1.17.1-37.0.53-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[24,]]]
-[0710ŒŽ2021 20:43:14.150] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_method with Javascript path coremods/field_to_method.js
-[0710ŒŽ2021 20:43:14.150] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_instanceof with Javascript path coremods/field_to_instanceof.js
-[0710ŒŽ2021 20:43:14.150] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod add_bouncer_method with Javascript path coremods/add_bouncer_method.js
-[0710ŒŽ2021 20:43:14.151] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_method.js
-[0710ŒŽ2021 20:43:14.151] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_instanceof.js
-[0710ŒŽ2021 20:43:14.151] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/add_bouncer_method.js
-[0710ŒŽ2021 20:43:14.155] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
-[0710ŒŽ2021 20:43:14.282] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 2 language providers
-[0710ŒŽ2021 20:43:14.283] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1.0
-[0710ŒŽ2021 20:43:14.285] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 37
-[0710ŒŽ2021 20:43:14.295] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mod requirements (0 mandatory, 0 optional)
-[0710ŒŽ2021 20:43:14.295] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mod requirements missing (0 mandatory, 0 optional)
-[0710ŒŽ2021 20:43:15.026] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading transformers
-[0710ŒŽ2021 20:43:15.027] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service fml
-[0710ŒŽ2021 20:43:15.027] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading coremod transformers
-[0710ŒŽ2021 20:43:15.028] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_method.js
-[0710ŒŽ2021 20:43:15.330] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
-[0710ŒŽ2021 20:43:15.331] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_instanceof.js
-[0710ŒŽ2021 20:43:15.450] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
-[0710ŒŽ2021 20:43:15.450] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/add_bouncer_method.js
-[0710ŒŽ2021 20:43:15.519] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
-[0710ŒŽ2021 20:43:15.529] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@128c502c to Target : CLASS {Lnet/minecraft/world/effect/MobEffectInstance;} {} {V}
-[0710ŒŽ2021 20:43:15.531] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@47ad69f7 to Target : CLASS {Lnet/minecraft/world/item/BucketItem;} {} {V}
-[0710ŒŽ2021 20:43:15.532] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2b917fb0 to Target : CLASS {Lnet/minecraft/world/level/block/StairBlock;} {} {V}
-[0710ŒŽ2021 20:43:15.532] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@5e5073ab to Target : CLASS {Lnet/minecraft/world/level/block/FlowerPotBlock;} {} {V}
-[0710ŒŽ2021 20:43:15.533] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@3c4262d1 to Target : CLASS {Lnet/minecraft/world/item/ItemStack;} {} {V}
-[0710ŒŽ2021 20:43:15.533] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@100c567f to Target : CLASS {Lnet/minecraft/network/play/client/CClientSettingsPacket;} {} {V}
-[0710ŒŽ2021 20:43:15.534] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service fml
-[0710ŒŽ2021 20:43:17.301] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[0710ŒŽ2021 20:43:19.339] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/StairBlock
-[0710ŒŽ2021 20:43:19.483] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/FlowerPotBlock
-[0710ŒŽ2021 20:43:21.563] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/item/ItemStack
-[0710ŒŽ2021 20:43:26.289] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/item/BucketItem
-[0710ŒŽ2021 20:43:26.681] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/effect/MobEffectInstance
-[0710ŒŽ2021 20:43:28.977] [main/DEBUG] [net.minecraftforge.fml.ModWorkManager/LOADING]: Using 8 threads for parallel mod-loading
-[0710ŒŽ2021 20:43:29.008] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
-[0710ŒŽ2021 20:43:29.009] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraft.scalar.mineall.mod_MineAllSMP
-[0710ŒŽ2021 20:43:29.015] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
-[0710ŒŽ2021 20:43:29.016] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraft.scalar.digall.mod_DigAllSMP
-[0710ŒŽ2021 20:43:29.019] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
-[0710ŒŽ2021 20:43:29.019] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod
-[0710ŒŽ2021 20:43:29.023] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
-[0710ŒŽ2021 20:43:29.023] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraft.scalar.cutall.mod_CutAllSMP
-[0710ŒŽ2021 20:43:29.287] [modloading-worker-2/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file digallsmp-common.toml for digallsmp tracking
-[0710ŒŽ2021 20:43:29.310] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file mineallsmp-common.toml for mineallsmp tracking
-[0710ŒŽ2021 20:43:29.336] [modloading-worker-4/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file cutallsmp-common.toml for cutallsmp tracking
-[0710ŒŽ2021 20:43:29.427] [modloading-worker-4/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for cutallsmp
-[0710ŒŽ2021 20:43:29.431] [modloading-worker-2/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for digallsmp
-[0710ŒŽ2021 20:43:29.533] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for mineallsmp
-[0710ŒŽ2021 20:43:29.681] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-client.toml for forge tracking
-[0710ŒŽ2021 20:43:29.682] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-server.toml for forge tracking
-[0710ŒŽ2021 20:43:29.682] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-common.toml for forge tracking
-[0710ŒŽ2021 20:43:29.746] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for forge
-[0710ŒŽ2021 20:43:30.222] [main/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type COMMON
-[0710ŒŽ2021 20:43:30.224] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
-[0710ŒŽ2021 20:43:30.227] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
-[0710ŒŽ2021 20:43:30.247] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml for changes
-[0710ŒŽ2021 20:43:30.275] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
-[0710ŒŽ2021 20:43:30.278] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file digallsmp-common.toml changed, sending notifies
-[0710ŒŽ2021 20:43:30.289] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
-[0710ŒŽ2021 20:43:30.300] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml for changes
-[0710ŒŽ2021 20:43:30.320] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
-[0710ŒŽ2021 20:43:30.322] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
-[0710ŒŽ2021 20:43:30.323] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml for changes
-[0710ŒŽ2021 20:43:30.329] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file mineallsmp-common.toml changed, sending notifies
-[0710ŒŽ2021 20:43:30.333] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\forge-common.toml
-[0710ŒŽ2021 20:43:30.335] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\forge-common.toml
-[0710ŒŽ2021 20:43:30.335] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\forge-common.toml for changes
-[0710ŒŽ2021 20:43:30.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[0710ŒŽ2021 20:43:32.173] [Forge Version Check/DEBUG] [net.minecraftforge.fml.VersionChecker/]: [forge] Received version check data:
+[0810ŒŽ2021 19:45:12.868] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.0.53, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[0810ŒŽ2021 19:45:12.875] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.2 by Oracle Corporation
+[0810ŒŽ2021 19:45:12.900] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness]
+[0810ŒŽ2021 19:45:12.925] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
+[0810ŒŽ2021 19:45:12.936] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [eventbus,object_holder_definalize,runtime_enum_extender,capability_inject_definalize,accesstransformer,runtimedistcleaner]
+[0810ŒŽ2021 19:45:12.947] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[0810ŒŽ2021 19:45:12.960] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: java.util.stream.ReferencePipeline$3@5b67bb7e
+[0810ŒŽ2021 19:45:12.972] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [fml]
+[0810ŒŽ2021 19:45:12.972] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[0810ŒŽ2021 19:45:12.973] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[0810ŒŽ2021 19:45:12.976] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
+[0810ŒŽ2021 19:45:12.976] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
+[0810ŒŽ2021 19:45:12.977] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 9.0.7+91+master.8569cdf
+[0810ŒŽ2021 19:45:12.977] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
+[0810ŒŽ2021 19:45:12.978] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 5.0.3+70+master.d7d405b
+[0810ŒŽ2021 19:45:12.978] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[0810ŒŽ2021 19:45:12.981] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.0.1+15+master.dc5a2922
+[0810ŒŽ2021 19:45:12.982] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 4.0.9+23+master.71a605a
+[0810ŒŽ2021 19:45:12.982] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 4
+[0810ŒŽ2021 19:45:12.985] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[0810ŒŽ2021 19:45:12.987] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[0810ŒŽ2021 19:45:12.996] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[0810ŒŽ2021 19:45:12.997] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[0810ŒŽ2021 19:45:12.997] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[0810ŒŽ2021 19:45:12.999] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1
+[0810ŒŽ2021 19:45:13.000] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\bulei\MinecraftServer\Forge-1.17.1
+[0810ŒŽ2021 19:45:13.001] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods
+[0810ŒŽ2021 19:45:13.001] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods
+[0810ŒŽ2021 19:45:13.001] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1\config
+[0810ŒŽ2021 19:45:13.001] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\bulei\MinecraftServer\Forge-1.17.1\config
+[0810ŒŽ2021 19:45:13.001] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\fml.toml
+[0810ŒŽ2021 19:45:13.002] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[0810ŒŽ2021 19:45:13.074] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing default config directory directory : C:\Users\bulei\MinecraftServer\Forge-1.17.1\defaultconfigs
+[0810ŒŽ2021 19:45:13.075] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
+[0810ŒŽ2021 19:45:13.079] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[0810ŒŽ2021 19:45:13.080] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using forgeserver as launch service
+[0810ŒŽ2021 19:45:13.117] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : VersionInfo[forgeVersion=37.0.53, mcVersion=1.17.1, mcpVersion=20210706.113038, forgeGroup=net.minecraftforge]
+[0810ŒŽ2021 19:45:13.121] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[0810ŒŽ2021 19:45:13.122] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
+[0810ŒŽ2021 19:45:13.123] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
+[0810ŒŽ2021 19:45:13.123] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[0810ŒŽ2021 19:45:13.124] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[0810ŒŽ2021 19:45:13.125] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[0810ŒŽ2021 19:45:13.140] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
+[0810ŒŽ2021 19:45:13.144] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
+[0810ŒŽ2021 19:45:13.577] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar
+[0810ŒŽ2021 19:45:13.646] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar with {cutallsmp} mods - versions {2.5.2}
+[0810ŒŽ2021 19:45:13.652] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[35,)]]
+[0810ŒŽ2021 19:45:13.654] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar
+[0810ŒŽ2021 19:45:13.656] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar with {digallsmp} mods - versions {2.3.3}
+[0810ŒŽ2021 19:45:13.657] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[35,)]]
+[0810ŒŽ2021 19:45:13.657] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar
+[0810ŒŽ2021 19:45:13.660] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar with {mineallsmp} mods - versions {2.6.7}
+[0810ŒŽ2021 19:45:13.660] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\mods\[1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[35,)]]
+[0810ŒŽ2021 19:45:13.662] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file server-1.17.1-20210706.113038-srg.jar with {minecraft} mods - versions {1.17.1}
+[0810ŒŽ2021 19:45:13.662] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\libraries\net\minecraft\server\1.17.1-20210706.113038\server-1.17.1-20210706.113038-srg.jar with languages [LanguageSpec[languageName=minecraft, acceptedVersions=1]]
+[0810ŒŽ2021 19:45:13.663] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\bulei\MinecraftServer\Forge-1.17.1\libraries\net\minecraftforge\forge\1.17.1-37.0.53\forge-1.17.1-37.0.53-universal.jar
+[0810ŒŽ2021 19:45:13.668] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.17.1-37.0.53-universal.jar with {forge} mods - versions {37.0.53}
+[0810ŒŽ2021 19:45:13.668] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\bulei\MinecraftServer\Forge-1.17.1\libraries\net\minecraftforge\forge\1.17.1-37.0.53\forge-1.17.1-37.0.53-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[24,]]]
+[0810ŒŽ2021 19:45:13.715] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_method with Javascript path coremods/field_to_method.js
+[0810ŒŽ2021 19:45:13.716] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_instanceof with Javascript path coremods/field_to_instanceof.js
+[0810ŒŽ2021 19:45:13.716] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod add_bouncer_method with Javascript path coremods/add_bouncer_method.js
+[0810ŒŽ2021 19:45:13.716] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_method.js
+[0810ŒŽ2021 19:45:13.717] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_instanceof.js
+[0810ŒŽ2021 19:45:13.717] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/add_bouncer_method.js
+[0810ŒŽ2021 19:45:13.720] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
+[0810ŒŽ2021 19:45:13.875] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 2 language providers
+[0810ŒŽ2021 19:45:13.878] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1.0
+[0810ŒŽ2021 19:45:13.880] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 37
+[0810ŒŽ2021 19:45:13.897] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mod requirements (0 mandatory, 0 optional)
+[0810ŒŽ2021 19:45:13.897] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mod requirements missing (0 mandatory, 0 optional)
+[0810ŒŽ2021 19:45:14.520] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading transformers
+[0810ŒŽ2021 19:45:14.520] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service fml
+[0810ŒŽ2021 19:45:14.520] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading coremod transformers
+[0810ŒŽ2021 19:45:14.520] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_method.js
+[0810ŒŽ2021 19:45:14.770] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[0810ŒŽ2021 19:45:14.770] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_instanceof.js
+[0810ŒŽ2021 19:45:14.864] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[0810ŒŽ2021 19:45:14.864] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/add_bouncer_method.js
+[0810ŒŽ2021 19:45:14.926] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@128c502c to Target : CLASS {Lnet/minecraft/world/effect/MobEffectInstance;} {} {V}
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@47ad69f7 to Target : CLASS {Lnet/minecraft/world/item/BucketItem;} {} {V}
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2b917fb0 to Target : CLASS {Lnet/minecraft/world/level/block/StairBlock;} {} {V}
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@5e5073ab to Target : CLASS {Lnet/minecraft/world/level/block/FlowerPotBlock;} {} {V}
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@3c4262d1 to Target : CLASS {Lnet/minecraft/world/item/ItemStack;} {} {V}
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@100c567f to Target : CLASS {Lnet/minecraft/network/play/client/CClientSettingsPacket;} {} {V}
+[0810ŒŽ2021 19:45:14.942] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service fml
+[0810ŒŽ2021 19:45:16.591] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[0810ŒŽ2021 19:45:18.290] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/StairBlock
+[0810ŒŽ2021 19:45:18.401] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/FlowerPotBlock
+[0810ŒŽ2021 19:45:19.768] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/item/ItemStack
+[0810ŒŽ2021 19:45:23.457] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/item/BucketItem
+[0810ŒŽ2021 19:45:23.753] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/effect/MobEffectInstance
+[0810ŒŽ2021 19:45:25.947] [main/DEBUG] [net.minecraftforge.fml.ModWorkManager/LOADING]: Using 8 threads for parallel mod-loading
+[0810ŒŽ2021 19:45:25.962] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
+[0810ŒŽ2021 19:45:25.962] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraft.scalar.mineall.mod_MineAllSMP
+[0810ŒŽ2021 19:45:25.969] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
+[0810ŒŽ2021 19:45:25.969] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraft.scalar.digall.mod_DigAllSMP
+[0810ŒŽ2021 19:45:25.972] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
+[0810ŒŽ2021 19:45:25.972] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod
+[0810ŒŽ2021 19:45:25.975] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@19058533 - got cpw.mods.cl.ModuleClassLoader@1ce61929
+[0810ŒŽ2021 19:45:25.976] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraft.scalar.cutall.mod_CutAllSMP
+[0810ŒŽ2021 19:45:26.125] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file mineallsmp-common.toml for mineallsmp tracking
+[0810ŒŽ2021 19:45:26.125] [modloading-worker-2/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file digallsmp-common.toml for digallsmp tracking
+[0810ŒŽ2021 19:45:26.193] [modloading-worker-4/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file cutallsmp-common.toml for cutallsmp tracking
+[0810ŒŽ2021 19:45:26.204] [modloading-worker-4/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for cutallsmp
+[0810ŒŽ2021 19:45:26.204] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for mineallsmp
+[0810ŒŽ2021 19:45:26.204] [modloading-worker-2/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for digallsmp
+[0810ŒŽ2021 19:45:26.771] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-client.toml for forge tracking
+[0810ŒŽ2021 19:45:26.772] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-server.toml for forge tracking
+[0810ŒŽ2021 19:45:26.772] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-common.toml for forge tracking
+[0810ŒŽ2021 19:45:26.817] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for forge
+[0810ŒŽ2021 19:45:27.466] [main/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type COMMON
+[0810ŒŽ2021 19:45:27.468] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
+[0810ŒŽ2021 19:45:27.471] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
+[0810ŒŽ2021 19:45:27.503] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml for changes
+[0810ŒŽ2021 19:45:27.513] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
+[0810ŒŽ2021 19:45:27.515] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
+[0810ŒŽ2021 19:45:27.515] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml for changes
+[0810ŒŽ2021 19:45:27.549] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
+[0810ŒŽ2021 19:45:27.552] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
+[0810ŒŽ2021 19:45:27.552] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml for changes
+[0810ŒŽ2021 19:45:27.583] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\forge-common.toml
+[0810ŒŽ2021 19:45:27.585] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\forge-common.toml
+[0810ŒŽ2021 19:45:27.585] [main/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\forge-common.toml for changes
+[0810ŒŽ2021 19:45:27.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[0810ŒŽ2021 19:45:30.011] [Forge Version Check/DEBUG] [net.minecraftforge.fml.VersionChecker/]: [forge] Received version check data:
 {
   "homepage": "https://files.minecraftforge.net/net/minecraftforge/forge/",
   "promos": {
@@ -197,15 +195,15 @@
     "1.16.4-recommended": "35.1.4",
     "1.16.5-latest": "36.2.8",
     "1.16.5-recommended": "36.2.0",
-    "1.17.1-latest": "37.0.82"
+    "1.17.1-latest": "37.0.84"
   }
 }
-[0710ŒŽ2021 20:43:32.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 37.0.53 Target: 37.0.82
-[0710ŒŽ2021 20:43:34.930] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[0710ŒŽ2021 20:43:53.397] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : .\world\serverconfig
-[0710ŒŽ2021 20:43:53.397] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type SERVER
-[0710ŒŽ2021 20:43:53.397] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for .\world\serverconfig\forge-server.toml
-[0710ŒŽ2021 20:43:53.403] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file .\world\serverconfig\forge-server.toml
-[0710ŒŽ2021 20:43:53.415] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file .\world\serverconfig\forge-server.toml for changes
-[0810ŒŽ2021 00:28:51.706] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : .\world\serverconfig
-[0810ŒŽ2021 00:28:51.706] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[0810ŒŽ2021 19:45:30.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 37.0.53 Target: 37.0.84
+[0810ŒŽ2021 19:45:32.591] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[0810ŒŽ2021 19:45:46.484] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : .\world\serverconfig
+[0810ŒŽ2021 19:45:46.485] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type SERVER
+[0810ŒŽ2021 19:45:46.485] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for .\world\serverconfig\forge-server.toml
+[0810ŒŽ2021 19:45:46.487] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file .\world\serverconfig\forge-server.toml
+[0810ŒŽ2021 19:45:46.489] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file .\world\serverconfig\forge-server.toml for changes
+[0810ŒŽ2021 19:54:43.541] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : .\world\serverconfig
+[0810ŒŽ2021 19:54:43.541] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

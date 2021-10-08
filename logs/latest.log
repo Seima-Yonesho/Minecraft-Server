@@ -1,15 +1,55 @@
-[00:04:00] [Server thread/INFO]: akipipi lost connection: Disconnected
-[00:04:00] [Server thread/INFO]: akipipi left the game
-[00:10:53] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
-[00:10:53] [Server thread/INFO]: LEOScarletGrace left the game
-[00:28:51] [Server thread/INFO]: Stopping the server
-[00:28:51] [Server thread/INFO]: Stopping server
-[00:28:51] [Server thread/INFO]: Saving players
-[00:28:51] [Server thread/INFO]: Saving worlds
-[00:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[0810ŒŽ2021 19:45:12.868] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.0.53, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[0810ŒŽ2021 19:45:12.875] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.2 by Oracle Corporation
+[0810ŒŽ2021 19:45:16.591] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19:45:26] [modloading-worker-3/INFO]: Forge mod loading, version 37.0.53, for MC 1.17.1 with MCP 20210706.113038
+[19:45:26] [modloading-worker-3/INFO]: MinecraftForge v37.0.53 Initialized
+[19:45:27] [main/INFO]: net.minecraft.scalar.mineall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
+[19:45:27] [main/INFO]: net.minecraft.scalar.digall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
+[19:45:27] [main/INFO]: net.minecraft.scalar.cutall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
+[0810ŒŽ2021 19:45:27.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[0810ŒŽ2021 19:45:30.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 37.0.53 Target: 37.0.84
+[0810ŒŽ2021 19:45:32.591] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:45:32] [main/WARN]: Assets URL 'union:/C:/Users/bulei/MinecraftServer/Forge-1.17.1/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2327!/assets/.mcassetsroot' uses unexpected schema
+[19:45:32] [main/WARN]: Assets URL 'union:/C:/Users/bulei/MinecraftServer/Forge-1.17.1/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2327!/data/.mcassetsroot' uses unexpected schema
+[19:45:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:45:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:45:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:45:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:45:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:45:33] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.0.53-universal.jar, [1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar, [1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar, [1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar
+[19:45:38] [Worker-Main-12/INFO]: Loaded 7 recipes
+[19:45:42] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[19:45:44] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[19:45:45] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:45:45] [Server thread/INFO]: Loading properties
+[19:45:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:45:45] [Server thread/INFO]: Generating keypair
+[19:45:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:45:46] [Server thread/INFO]: Using default channel type
+[19:45:46] [Server thread/INFO]: Preparing level "world"
+[19:45:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:45:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:45:47] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:45:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:45:48] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:45:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:45:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:45:49] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[19:45:50] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[19:45:50] [Worker-Main-13/INFO]: Preparing spawn area: 7%
+[19:45:51] [Worker-Main-13/INFO]: Preparing spawn area: 20%
+[19:45:51] [Worker-Main-8/INFO]: Preparing spawn area: 57%
+[19:45:52] [Worker-Main-9/INFO]: Preparing spawn area: 81%
+[19:45:53] [Server thread/INFO]: Time elapsed: 6945 ms
+[19:45:53] [Server thread/INFO]: Done (7.296s)! For help, type "help"
+[19:54:43] [Server thread/INFO]: Stopping the server
+[19:54:43] [Server thread/INFO]: Stopping server
+[19:54:43] [Server thread/INFO]: Saving players
+[19:54:43] [Server thread/INFO]: Saving worlds
+[19:54:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:54:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:54:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
