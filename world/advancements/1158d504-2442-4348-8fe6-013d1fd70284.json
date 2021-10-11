@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-10-08 23:44:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-09-18 13:57:50 +0900"
@@ -422,6 +428,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-09-18 14:22:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2021-10-08 23:27:20 +0900"
     },
     "done": true
   },
@@ -1420,6 +1432,7 @@
       "minecraft:taiga_hills": "2021-10-02 01:56:31 +0900",
       "minecraft:desert": "2021-09-20 22:26:19 +0900",
       "minecraft:deep_frozen_ocean": "2021-10-02 00:24:12 +0900",
+      "minecraft:jungle": "2021-10-08 23:52:13 +0900",
       "minecraft:birch_forest": "2021-09-19 22:03:42 +0900",
       "minecraft:snowy_beach": "2021-09-18 22:33:57 +0900",
       "minecraft:warm_ocean": "2021-10-02 00:37:20 +0900",
@@ -1644,9 +1657,10 @@
       "minecraft:crimson_forest": "2021-09-20 22:57:16 +0900",
       "minecraft:soul_sand_valley": "2021-09-18 16:42:16 +0900",
       "minecraft:nether_wastes": "2021-09-19 22:26:12 +0900",
-      "minecraft:warped_forest": "2021-09-22 21:18:37 +0900"
+      "minecraft:warped_forest": "2021-09-22 21:18:37 +0900",
+      "minecraft:basalt_deltas": "2021-10-08 23:44:12 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -1741,6 +1755,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-09-18 17:18:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2021-10-08 23:27:20 +0900"
     },
     "done": true
   },
