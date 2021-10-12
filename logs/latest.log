@@ -1,24 +1,62 @@
-[00:00:59] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
-[00:00:59] [Server thread/INFO]: LEOScarletGrace left the game
-[00:39:55] [Server thread/INFO]: asuberu lost connection: Disconnected
-[00:39:55] [Server thread/INFO]: asuberu left the game
-[00:46:51] [Server thread/WARN]: Unpelorin was kicked for floating too long!
-[00:46:51] [Server thread/INFO]: Unpelorin lost connection: Flying is not enabled on this server
-[00:46:51] [Server thread/INFO]: Unpelorin left the game
-[00:46:56] [User Authenticator #12/INFO]: UUID of player Unpelorin is 480d4958-fec3-46b4-8624-f5628a03e0e0
-[00:46:57] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6751e9f9
-[00:46:57] [Server thread/INFO]: Unpelorin[/192.168.0.6:60038] logged in with entity id 212808 at (618.7613952138348, 63.55000001192093, -115.6875)
-[00:46:57] [Server thread/INFO]: Unpelorin joined the game
-[00:50:25] [Server thread/INFO]: Unpelorin lost connection: Disconnected
-[00:50:25] [Server thread/INFO]: Unpelorin left the game
-[00:50:34] [Server thread/INFO]: Stopping the server
-[00:50:34] [Server thread/INFO]: Stopping server
-[00:50:34] [Server thread/INFO]: Saving players
-[00:50:34] [Server thread/INFO]: Saving worlds
-[00:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[1210ŒŽ2021 20:33:17.398] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.0.53, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[1210ŒŽ2021 20:33:17.414] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.2 by Oracle Corporation
+[1210ŒŽ2021 20:33:20.383] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20:33:28] [modloading-worker-3/INFO]: Forge mod loading, version 37.0.53, for MC 1.17.1 with MCP 20210706.113038
+[20:33:28] [modloading-worker-3/INFO]: MinecraftForge v37.0.53 Initialized
+[20:33:29] [main/INFO]: net.minecraft.scalar.cutall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
+[20:33:29] [main/INFO]: net.minecraft.scalar.mineall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
+[20:33:29] [Thread-0/INFO]: net.minecraft.scalar.cutall.mod_CutAllSMP config reload.
+[20:33:29] [main/INFO]: net.minecraft.scalar.digall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
+[20:33:29] [Thread-0/INFO]: net.minecraft.scalar.digall.mod_DigAllSMP config reload.
+[1210ŒŽ2021 20:33:29.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[1210ŒŽ2021 20:33:30.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 37.0.53 Target: 37.0.85
+[1210ŒŽ2021 20:33:32.483] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:33:32] [main/WARN]: Assets URL 'union:/C:/Users/bulei/MinecraftServer/Forge-1.17.1/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2327!/assets/.mcassetsroot' uses unexpected schema
+[20:33:32] [main/WARN]: Assets URL 'union:/C:/Users/bulei/MinecraftServer/Forge-1.17.1/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2327!/data/.mcassetsroot' uses unexpected schema
+[20:33:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:33:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:33:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:33:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:33:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:33:33] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.0.53-universal.jar, [1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar, [1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar, [1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar
+[20:33:37] [Worker-Main-13/INFO]: Loaded 7 recipes
+[20:33:41] [Worker-Main-13/INFO]: Loaded 1137 advancements
+[20:33:42] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[20:33:44] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[20:33:44] [Server thread/INFO]: Loading properties
+[20:33:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:33:44] [Server thread/INFO]: Generating keypair
+[20:33:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:33:44] [Server thread/INFO]: Using default channel type
+[20:33:44] [Server thread/INFO]: Preparing level "world"
+[20:33:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:33:45] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:33:45] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:33:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:33:46] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:33:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:33:47] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[20:33:48] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[20:33:48] [Worker-Main-13/INFO]: Preparing spawn area: 14%
+[20:33:49] [Worker-Main-14/INFO]: Preparing spawn area: 21%
+[20:33:49] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[20:33:50] [Worker-Main-13/INFO]: Preparing spawn area: 82%
+[20:33:52] [Server thread/INFO]: Time elapsed: 6763 ms
+[20:33:52] [Server thread/INFO]: Done (7.091s)! For help, type "help"
+[20:34:44] [User Authenticator #1/INFO]: UUID of player Unpelorin is 480d4958-fec3-46b4-8624-f5628a03e0e0
+[20:34:46] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18daefc3
+[20:34:46] [Server thread/INFO]: Unpelorin[/192.168.0.6:58614] logged in with entity id 30 at (734.6688591731893, 71.0, -177.87163492114937)
+[20:34:46] [Server thread/INFO]: Unpelorin joined the game
+[21:19:22] [Server thread/INFO]: Unpelorin lost connection: Disconnected
+[21:19:22] [Server thread/INFO]: Unpelorin left the game
+[21:27:12] [Server thread/INFO]: Stopping the server
+[21:27:12] [Server thread/INFO]: Stopping server
+[21:27:12] [Server thread/INFO]: Saving players
+[21:27:12] [Server thread/INFO]: Saving worlds
+[21:27:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:27:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:27:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:27:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:27:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:27:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:27:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
