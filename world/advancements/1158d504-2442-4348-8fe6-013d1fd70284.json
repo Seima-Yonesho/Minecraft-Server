@@ -730,6 +730,7 @@
       "minecraft:wither_skeleton": "2021-09-19 22:22:46 +0900",
       "minecraft:husk": "2021-09-20 22:37:17 +0900",
       "minecraft:piglin": "2021-09-22 22:08:30 +0900",
+      "minecraft:enderman": "2021-10-14 23:37:30 +0900",
       "minecraft:vex": "2021-10-02 01:01:29 +0900",
       "minecraft:zombie": "2021-09-10 15:47:46 +0900",
       "minecraft:drowned": "2021-09-10 16:47:16 +0900"
@@ -904,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-10-15 00:08:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-09-10 16:55:58 +0900"
@@ -967,6 +974,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-09-10 15:52:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-10-14 23:46:24 +0900"
     },
     "done": true
   },
@@ -1429,8 +1442,10 @@
       "minecraft:desert_hills": "2021-09-20 22:36:43 +0900",
       "minecraft:giant_tree_taiga": "2021-10-02 01:53:05 +0900",
       "minecraft:deep_cold_ocean": "2021-09-10 16:14:59 +0900",
+      "minecraft:snowy_tundra": "2021-10-15 00:03:27 +0900",
       "minecraft:taiga_hills": "2021-10-02 01:56:31 +0900",
       "minecraft:desert": "2021-09-20 22:26:19 +0900",
+      "minecraft:frozen_river": "2021-10-15 00:03:28 +0900",
       "minecraft:deep_frozen_ocean": "2021-10-02 00:24:12 +0900",
       "minecraft:jungle": "2021-10-08 23:52:13 +0900",
       "minecraft:birch_forest": "2021-09-19 22:03:42 +0900",
@@ -2562,6 +2577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-10-14 23:55:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-18 22:33:10 +0900"
@@ -2607,6 +2628,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-09-18 13:40:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-10-14 23:55:14 +0900"
     },
     "done": true
   },
@@ -3036,6 +3063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-10-14 23:46:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2021-09-25 21:19:23 +0900"
@@ -3075,6 +3108,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-09-10 15:46:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-10-14 23:46:24 +0900"
     },
     "done": true
   },

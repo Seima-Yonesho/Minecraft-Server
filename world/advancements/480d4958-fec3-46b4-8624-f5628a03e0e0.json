@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-15 00:08:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-09-19 23:24:43 +0900"
@@ -858,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-10-14 23:54:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2021-09-30 22:14:02 +0900"
@@ -1074,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-10-15 00:08:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-09-10 16:57:03 +0900"
@@ -1161,6 +1179,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-20 21:39:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-10-14 23:45:29 +0900"
     },
     "done": true
   },
@@ -1698,6 +1722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-10-14 23:54:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-09-18 14:19:19 +0900"
@@ -1726,8 +1756,10 @@
       "minecraft:desert_hills": "2021-09-30 23:47:20 +0900",
       "minecraft:giant_tree_taiga": "2021-10-02 01:53:04 +0900",
       "minecraft:deep_cold_ocean": "2021-09-10 16:12:49 +0900",
+      "minecraft:snowy_tundra": "2021-10-15 00:03:09 +0900",
       "minecraft:taiga_hills": "2021-10-02 01:56:30 +0900",
       "minecraft:desert": "2021-09-23 23:07:25 +0900",
+      "minecraft:frozen_river": "2021-10-15 00:03:10 +0900",
       "minecraft:deep_frozen_ocean": "2021-10-02 00:24:11 +0900",
       "minecraft:jungle": "2021-09-20 20:50:56 +0900",
       "minecraft:birch_forest": "2021-09-18 16:47:57 +0900",
@@ -1799,6 +1831,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-09-10 15:50:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-15 00:08:56 +0900"
     },
     "done": true
   },
@@ -2156,6 +2194,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-09-20 13:40:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-10-14 23:54:51 +0900"
     },
     "done": true
   },
@@ -2641,6 +2685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-15 00:08:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-09-10 15:56:18 +0900"
@@ -2894,6 +2944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-15 00:08:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-09-10 15:21:55 +0900"
@@ -3092,6 +3148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-10-14 23:55:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-18 13:39:05 +0900"
@@ -3143,6 +3205,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-09-18 13:33:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-10-14 23:55:08 +0900"
     },
     "done": true
   },
@@ -3323,6 +3391,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-09-18 14:20:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-15 00:08:56 +0900"
     },
     "done": true
   },
@@ -3692,6 +3766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-10-14 23:45:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2021-09-20 21:39:51 +0900"
@@ -3770,6 +3850,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-10-14 23:45:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2021-09-10 15:50:50 +0900"
@@ -3785,6 +3871,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-18 14:15:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-15 00:08:56 +0900"
     },
     "done": true
   },

@@ -853,6 +853,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-10-14 23:46:54 +0900",
+      "minecraft:pillager": "2021-10-14 22:45:51 +0900",
       "minecraft:skeleton": "2021-09-18 14:10:14 +0900",
       "minecraft:vindicator": "2021-10-02 01:06:33 +0900",
       "minecraft:spider": "2021-09-18 14:51:20 +0900",
@@ -1004,6 +1006,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-09-19 22:02:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-10-14 22:45:51 +0900"
     },
     "done": true
   },
@@ -1208,6 +1216,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-30 22:01:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-10-14 23:47:36 +0900"
     },
     "done": true
   },
@@ -3774,6 +3788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-10-14 23:47:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2021-09-30 22:01:06 +0900"
@@ -3831,6 +3851,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2021-09-19 21:51:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-10-14 23:47:36 +0900"
     },
     "done": true
   },
