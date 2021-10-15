@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-10-15 23:39:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-09-18 14:57:21 +0900"
@@ -848,9 +854,11 @@
       "minecraft:phantom": "2021-09-19 20:59:43 +0900",
       "minecraft:zombified_piglin": "2021-09-26 17:18:28 +0900",
       "minecraft:witch": "2021-10-01 23:37:46 +0900",
+      "minecraft:ender_dragon": "2021-10-15 23:39:29 +0900",
       "minecraft:cave_spider": "2021-09-21 00:12:37 +0900",
       "minecraft:piglin": "2021-10-08 23:52:24 +0900",
       "minecraft:enderman": "2021-09-26 22:37:02 +0900",
+      "minecraft:silverfish": "2021-10-15 23:26:45 +0900",
       "minecraft:vex": "2021-10-02 01:01:06 +0900",
       "minecraft:zombie": "2021-09-10 15:33:02 +0900",
       "minecraft:drowned": "2021-09-24 10:09:25 +0900",
@@ -1185,6 +1193,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-10-14 23:45:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-10-15 23:28:53 +0900"
     },
     "done": true
   },
@@ -1750,6 +1764,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-09-18 13:28:53 +0900",
       "minecraft:jungle_edge": "2021-09-20 21:06:29 +0900",
+      "minecraft:snowy_mountains": "2021-10-15 23:26:12 +0900",
       "minecraft:forest": "2021-09-04 02:05:04 +0900",
       "minecraft:mountains": "2021-09-18 13:31:32 +0900",
       "minecraft:taiga": "2021-09-18 22:36:38 +0900",
@@ -1969,6 +1984,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2021-09-25 16:16:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-10-15 23:40:49 +0900"
     },
     "done": true
   },
@@ -2416,6 +2437,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-18 13:39:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-10-15 23:29:35 +0900"
     },
     "done": true
   },
@@ -3466,9 +3493,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-10-15 23:29:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2021-10-12 12:41:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-10-15 23:29:35 +0900"
     },
     "done": true
   },
@@ -3796,6 +3835,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-10-15 23:44:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2021-09-20 23:13:48 +0900"
@@ -3982,6 +4027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-10-15 23:29:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-09-18 13:17:27 +0900"
@@ -4045,6 +4096,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-18 13:39:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-10-15 23:28:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-10-15 23:29:35 +0900"
     },
     "done": true
   },
