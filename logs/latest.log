@@ -1,30 +1,22 @@
-[00:04:12] [Server thread/INFO]: koyasu1116 lost connection: Disconnected
-[00:04:12] [Server thread/INFO]: koyasu1116 left the game
-[00:04:20] [User Authenticator #7/INFO]: UUID of player koyasu1116 is 1158d504-2442-4348-8fe6-013d1fd70284
-[00:04:21] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c7269ad
-[00:04:21] [Server thread/INFO]: koyasu1116[/14.193.227.32:55491] logged in with entity id 49762 at (969.9413208579845, 68.0, 816.4353032181499)
-[00:04:21] [Server thread/INFO]: koyasu1116 joined the game
-[00:09:07] [Server thread/WARN]: Boat (vehicle of LEOScarletGrace) moved wrongly! 0.28242037133531994
-[00:18:27] [User Authenticator #8/INFO]: UUID of player Unpelorin is 480d4958-fec3-46b4-8624-f5628a03e0e0
-[00:18:27] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c168867
-[00:18:27] [Server thread/INFO]: Unpelorin[/192.168.0.6:64313] logged in with entity id 55534 at (1053.0718051555796, 25.0, 952.8794885968509)
-[00:18:27] [Server thread/INFO]: Unpelorin joined the game
-[00:27:53] [Server thread/INFO]: akipipi lost connection: Disconnected
-[00:27:53] [Server thread/INFO]: akipipi left the game
-[00:30:07] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
-[00:30:07] [Server thread/INFO]: LEOScarletGrace left the game
-[00:30:52] [Server thread/INFO]: Unpelorin lost connection: Disconnected
-[00:30:52] [Server thread/INFO]: Unpelorin left the game
-[00:30:55] [Server thread/INFO]: koyasu1116 lost connection: Disconnected
-[00:30:55] [Server thread/INFO]: koyasu1116 left the game
-[00:31:33] [Server thread/INFO]: Stopping the server
-[00:31:33] [Server thread/INFO]: Stopping server
-[00:31:33] [Server thread/INFO]: Saving players
-[00:31:33] [Server thread/INFO]: Saving worlds
-[00:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:34] [Server thread/INFO]: Unpelorin lost connection: Disconnected
+[00:01:34] [Server thread/INFO]: Unpelorin left the game
+[00:01:39] [Server thread/INFO]: mochimochi49 lost connection: Disconnected
+[00:01:39] [Server thread/INFO]: mochimochi49 left the game
+[00:01:41] [Server thread/INFO]: koyasu1116 lost connection: Disconnected
+[00:01:41] [Server thread/INFO]: koyasu1116 left the game
+[00:01:45] [Server thread/INFO]: akipipi lost connection: Disconnected
+[00:01:45] [Server thread/INFO]: akipipi left the game
+[00:01:53] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
+[00:01:53] [Server thread/INFO]: LEOScarletGrace left the game
+[00:02:13] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[00:02:17] [Server thread/INFO]: Stopping the server
+[00:02:17] [Server thread/INFO]: Stopping server
+[00:02:17] [Server thread/INFO]: Saving players
+[00:02:17] [Server thread/INFO]: Saving worlds
+[00:02:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:02:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:02:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
