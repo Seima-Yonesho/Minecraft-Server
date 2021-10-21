@@ -1,16 +1,20 @@
-[00:16:28] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
-[00:16:28] [Server thread/INFO]: LEOScarletGrace left the game
-[00:17:24] [Server thread/INFO]: akipipi lost connection: Disconnected
-[00:17:24] [Server thread/INFO]: akipipi left the game
-[00:31:38] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[00:31:43] [Server thread/INFO]: Stopping the server
-[00:31:43] [Server thread/INFO]: Stopping server
-[00:31:43] [Server thread/INFO]: Saving players
-[00:31:43] [Server thread/INFO]: Saving worlds
-[00:31:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:31:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:31:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:36] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
+[00:13:36] [Server thread/INFO]: LEOScarletGrace left the game
+[00:15:40] [Server thread/INFO]: akipipi lost connection: Disconnected
+[00:15:40] [Server thread/INFO]: akipipi left the game
+[00:43:04] [Server thread/INFO]: Unpelorin has made the advancement [A Throwaway Joke]
+[01:08:49] [Server thread/INFO]: asuberu lost connection: Disconnected
+[01:08:49] [Server thread/INFO]: asuberu left the game
+[01:08:51] [Server thread/INFO]: Unpelorin lost connection: Disconnected
+[01:08:51] [Server thread/INFO]: Unpelorin left the game
+[01:09:25] [Server thread/INFO]: Stopping the server
+[01:09:25] [Server thread/INFO]: Stopping server
+[01:09:25] [Server thread/INFO]: Saving players
+[01:09:25] [Server thread/INFO]: Saving worlds
+[01:09:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
