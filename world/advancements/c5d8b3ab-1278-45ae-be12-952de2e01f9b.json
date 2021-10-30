@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-10-26 23:09:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-09-18 14:13:33 +0900"
@@ -951,6 +957,7 @@
       "minecraft:husk": "2021-09-27 22:49:57 +0900",
       "minecraft:cave_spider": "2021-10-10 22:19:10 +0900",
       "minecraft:enderman": "2021-10-10 21:35:19 +0900",
+      "minecraft:silverfish": "2021-10-26 22:15:51 +0900",
       "minecraft:vex": "2021-10-02 01:02:28 +0900",
       "minecraft:zombie": "2021-09-10 16:10:42 +0900",
       "minecraft:drowned": "2021-09-10 16:48:36 +0900",
@@ -1150,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-10-26 23:09:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-10-06 22:48:39 +0900"
@@ -1330,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2021-10-26 22:43:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-09-19 21:51:50 +0900"
@@ -1411,6 +1430,18 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-09-23 20:37:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2021-10-26 22:40:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2021-10-27 23:03:11 +0900"
     },
     "done": true
   },
@@ -1855,6 +1886,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2021-10-19 23:22:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2021-10-26 22:36:57 +0900"
     },
     "done": true
   },
@@ -2851,6 +2888,7 @@
       "dried_kelp": "2021-09-10 16:21:14 +0900",
       "melon_slice": "2021-09-26 17:52:57 +0900",
       "cooked_chicken": "2021-09-10 16:51:53 +0900",
+      "cooked_salmon": "2021-10-22 23:17:34 +0900",
       "carrot": "2021-09-20 22:19:59 +0900"
     },
     "done": false
@@ -3119,6 +3157,7 @@
       "minecraft:sheep": "2021-09-19 21:44:11 +0900",
       "minecraft:cow": "2021-09-18 14:35:37 +0900",
       "minecraft:chicken": "2021-09-18 14:57:43 +0900",
+      "minecraft:horse": "2021-10-29 23:43:16 +0900",
       "minecraft:rabbit": "2021-10-19 21:33:09 +0900"
     },
     "done": false
@@ -3291,6 +3330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-10-25 22:49:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-09-18 14:50:23 +0900"
@@ -3336,6 +3381,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2021-10-06 22:48:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2021-10-26 22:40:03 +0900"
     },
     "done": true
   },
@@ -3696,6 +3747,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-09-18 13:36:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2021-10-26 22:36:57 +0900"
     },
     "done": true
   },
@@ -4107,6 +4164,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-10-25 22:49:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2021-09-28 21:30:24 +0900"
@@ -4146,6 +4209,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2021-09-23 20:03:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2021-10-23 23:25:13 +0900"
     },
     "done": true
   },
@@ -4449,6 +4518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2021-10-26 22:43:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-09-30 22:06:21 +0900"
@@ -4462,6 +4537,7 @@
       "textures/entity/cat/jellie.png": "2021-09-27 22:55:10 +0900",
       "textures/entity/cat/siamese.png": "2021-09-22 22:35:21 +0900",
       "textures/entity/cat/all_black.png": "2021-09-23 19:57:02 +0900",
+      "textures/entity/cat/persian.png": "2021-10-22 23:37:13 +0900",
       "textures/entity/cat/red.png": "2021-09-22 21:56:43 +0900",
       "textures/entity/cat/calico.png": "2021-09-22 23:39:25 +0900"
     },
