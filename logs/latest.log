@@ -1,57 +1,106 @@
-[00:16:46] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.5432695310406643
-[00:17:12] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.2582502010004788
-[00:17:12] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.3708995920217575
-[00:17:13] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.44840236026624325
-[00:20:47] [Server thread/WARN]: Horse (vehicle of LEOScarletGrace) moved wrongly! 0.2900300328746539
-[00:20:54] [Server thread/WARN]: Horse (vehicle of LEOScarletGrace) moved wrongly! 0.545383306250443
-[00:20:54] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.26276756675356694
-[00:21:26] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.4295084901392556
-[00:22:55] [Server thread/INFO]: akipipi lost connection: Disconnected
-[00:22:55] [Server thread/INFO]: akipipi left the game
-[00:22:58] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
-[00:22:58] [Server thread/INFO]: LEOScarletGrace left the game
-[00:23:01] [Server thread/INFO]: Unpelorin lost connection: Disconnected
-[00:23:01] [Server thread/INFO]: Unpelorin left the game
-[00:23:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:33] [Server thread/INFO]: <--[HERE]
-[00:23:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:34] [Server thread/INFO]: <--[HERE]
-[00:23:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:34] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:35] [Server thread/INFO]: <--[HERE]
-[00:23:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:23:36] [Server thread/INFO]: <--[HERE]
-[00:23:40] [Server thread/INFO]: Stopping the server
-[00:23:40] [Server thread/INFO]: Stopping server
-[00:23:40] [Server thread/INFO]: Saving players
-[00:23:40] [Server thread/INFO]: Saving worlds
-[00:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[0211ŒŽ2021 22:15:51.161] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.0.53, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[0211ŒŽ2021 22:15:51.167] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.2 by Oracle Corporation
+[0211ŒŽ2021 22:15:54.409] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22:16:02] [modloading-worker-3/INFO]: Forge mod loading, version 37.0.53, for MC 1.17.1 with MCP 20210706.113038
+[22:16:02] [modloading-worker-3/INFO]: MinecraftForge v37.0.53 Initialized
+[22:16:03] [main/INFO]: net.minecraft.scalar.mineall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\mineallsmp-common.toml
+[22:16:03] [main/INFO]: net.minecraft.scalar.cutall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\cutallsmp-common.toml
+[22:16:03] [Thread-0/INFO]: net.minecraft.scalar.mineall.mod_MineAllSMP config reload.
+[22:16:03] [main/INFO]: net.minecraft.scalar.digall.ModConfig::onLoad file:C:\Users\bulei\MinecraftServer\Forge-1.17.1\config\digallsmp-common.toml
+[0211ŒŽ2021 22:16:03.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[0211ŒŽ2021 22:16:04.165] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.UnknownHostException: files.minecraftforge.net
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333) ~[?:?]
+	at java.net.Socket.connect(Socket.java:645) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:300) ~[?:?]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:182) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:497) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:600) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:379) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1120) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1653) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:135) ~[fmlcore-1.17.1-37.0.53.jar%2328!:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:169) ~[fmlcore-1.17.1-37.0.53.jar%2328!:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:119) [fmlcore-1.17.1-37.0.53.jar%2328!:?]
+[0211ŒŽ2021 22:16:07.367] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:16:07] [main/WARN]: Assets URL 'union:/C:/Users/bulei/MinecraftServer/Forge-1.17.1/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2327!/assets/.mcassetsroot' uses unexpected schema
+[22:16:07] [main/WARN]: Assets URL 'union:/C:/Users/bulei/MinecraftServer/Forge-1.17.1/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2327!/data/.mcassetsroot' uses unexpected schema
+[22:16:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:16:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:16:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:16:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:16:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:16:08] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.0.53-universal.jar, [1.17.1][forge37.0.34]mod_MineAllSMP_v2.6.6.jar, [1.17.1][forge37.0.34]mod_DigAllSMP_v2.3.3.jar, [1.17.1][forge37.0.34]mod_CutAllSMP_v2.5.2.jar
+[22:16:12] [Worker-Main-13/INFO]: Loaded 7 recipes
+[22:16:16] [Worker-Main-13/INFO]: Loaded 1137 advancements
+[22:16:18] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[22:16:19] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[22:16:19] [Server thread/INFO]: Loading properties
+[22:16:19] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:19] [Server thread/INFO]: Generating keypair
+[22:16:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:16:19] [Server thread/INFO]: Using default channel type
+[22:16:20] [Server thread/INFO]: Preparing level "world"
+[22:16:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:16:21] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:16:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:16:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:16:22] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:16:23] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[22:16:23] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[22:16:24] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[22:16:24] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[22:16:25] [Worker-Main-10/INFO]: Preparing spawn area: 58%
+[22:16:27] [Server thread/INFO]: Time elapsed: 6831 ms
+[22:16:27] [Server thread/INFO]: Done (7.166s)! For help, type "help"
+[22:22:40] [User Authenticator #1/INFO]: UUID of player akipipi is c5d8b3ab-1278-45ae-be12-952de2e01f9b
+[22:22:42] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ff151dc
+[22:22:42] [Server thread/INFO]: akipipi[/126.89.3.194:58916] logged in with entity id 37 at (719.5, 74.0, -155.5)
+[22:22:42] [Server thread/INFO]: akipipi joined the game
+[22:23:55] [User Authenticator #2/INFO]: UUID of player LEOScarletGrace is 884a9d02-cc85-4b1a-ae54-fae6f2b5eeba
+[22:23:57] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@541539dc
+[22:23:57] [Server thread/INFO]: LEOScarletGrace[/126.89.3.194:57210] logged in with entity id 783 at (675.9224417821464, 65.0, -269.1600423480833)
+[22:23:57] [Server thread/INFO]: LEOScarletGrace joined the game
+[22:26:03] [User Authenticator #3/INFO]: UUID of player Unpelorin is 480d4958-fec3-46b4-8624-f5628a03e0e0
+[22:26:05] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f2d26f7
+[22:26:05] [Server thread/INFO]: Unpelorin[/192.168.0.6:56647] logged in with entity id 1270 at (782.1947192140054, 62.0, -192.47422125018232)
+[22:26:05] [Server thread/INFO]: Unpelorin joined the game
+[22:26:58] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.2539269975553964
+[22:35:37] [Server thread/INFO]: akipipi has made the advancement [Local Brewery]
+[22:52:39] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.2610762567830136
+[22:53:38] [Server thread/WARN]: Horse (vehicle of LEOScarletGrace) moved wrongly! 0.454261229228905
+[22:53:40] [Server thread/WARN]: Horse (vehicle of LEOScarletGrace) moved wrongly! 0.35866757481005607
+[22:53:43] [Server thread/WARN]: Horse (vehicle of LEOScarletGrace) moved wrongly! 0.33656710375487364
+[22:55:09] [Server thread/WARN]: Horse (vehicle of LEOScarletGrace) moved wrongly! 0.3929173382296085
+[22:55:16] [Server thread/WARN]: Horse (vehicle of akipipi) moved wrongly! 0.41800936308789005
+[22:55:47] [Server thread/INFO]: DestroyUnder=true, blocks=block.minecraft.gold_ore(all meta),block.minecraft.iron_ore(all meta),block.minecraft.coal_ore(all meta),block.minecraft.lapis_ore(all meta),block.minecraft.obsidian(all meta),block.minecraft.diamond_ore(all meta),block.minecraft.redstone_ore(all meta),block.minecraft.glowstone(all meta),block.minecraft.emerald_ore(all meta),block.minecraft.nether_quartz_ore(all meta),block.minecraft.granite(all meta),block.minecraft.polished_granite(all meta),block.minecraft.diorite(all meta),block.minecraft.polished_diorite(all meta),block.minecraft.andesite(all meta),block.minecraft.polished_andesite(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.nether_gold_ore(all meta),block.minecraft.sponge(all meta),block.minecraft.wet_sponge(all meta),block.minecraft.nether_wart_block(all meta),block.minecraft.warped_wart_block(all meta),block.minecraft.crying_obsidian(all meta),block.minecraft.ancient_debris(all meta),block.minecraft.deepslate_coal_ore(all meta),block.minecraft.deepslate_copper_ore(all meta),block.minecraft.deepslate_diamond_ore(all meta),block.minecraft.deepslate_emerald_ore(all meta),block.minecraft.deepslate_gold_ore(all meta),block.minecraft.deepslate_iron_ore(all meta),block.minecraft.deepslate_lapis_ore(all meta),block.minecraft.deepslate_redstone_ore(all meta)
+[23:15:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=556, y=38, z=-142} BlockPos{x=556, y=39, z=-142}
+[23:38:16] [Server thread/INFO]: akipipi lost connection: Disconnected
+[23:38:16] [Server thread/INFO]: akipipi left the game
+[23:43:47] [Server thread/INFO]: LEOScarletGrace lost connection: Disconnected
+[23:43:47] [Server thread/INFO]: LEOScarletGrace left the game
+[23:46:27] [Server thread/INFO]: Unpelorin lost connection: Disconnected
+[23:46:27] [Server thread/INFO]: Unpelorin left the game
+[23:46:34] [Server thread/INFO]: Stopping the server
+[23:46:34] [Server thread/INFO]: Stopping server
+[23:46:34] [Server thread/INFO]: Saving players
+[23:46:34] [Server thread/INFO]: Saving worlds
+[23:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
