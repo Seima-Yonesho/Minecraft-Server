@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2021-11-06 23:27:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2021-09-18 14:26:35 +0900"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2021-11-06 23:27:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2021-10-08 22:19:41 +0900"
@@ -869,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2021-11-06 23:27:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-09-30 22:01:10 +0900"
@@ -950,6 +968,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2021-09-18 14:16:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-11-05 22:56:42 +0900"
     },
     "done": true
   },
@@ -1934,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2021-11-06 23:27:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2021-09-18 15:05:44 +0900"
@@ -2084,9 +2114,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-11-06 00:20:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-10-25 22:49:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-11-05 22:51:22 +0900"
     },
     "done": true
   },
@@ -2444,6 +2486,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-11-05 23:22:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-09-19 22:02:53 +0900"
@@ -2471,6 +2519,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-09-30 22:01:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-11-05 22:56:42 +0900"
     },
     "done": true
   },
@@ -2531,6 +2585,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2021-09-28 21:30:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-11-05 22:56:42 +0900"
     },
     "done": true
   },
@@ -2818,6 +2878,7 @@
       "minecraft:zombified_piglin": "2021-10-15 22:20:39 +0900",
       "minecraft:witch": "2021-09-21 00:09:20 +0900",
       "minecraft:husk": "2021-09-27 22:49:57 +0900",
+      "minecraft:shulker": "2021-11-05 23:11:25 +0900",
       "minecraft:cave_spider": "2021-10-10 22:19:10 +0900",
       "minecraft:enderman": "2021-10-10 21:35:19 +0900",
       "minecraft:silverfish": "2021-10-26 22:15:51 +0900",
@@ -3402,6 +3463,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-09-18 13:28:58 +0900",
       "minecraft:jungle_edge": "2021-09-20 21:06:19 +0900",
+      "minecraft:snowy_mountains": "2021-11-06 00:06:26 +0900",
       "minecraft:forest": "2021-09-10 15:20:46 +0900",
       "minecraft:mountains": "2021-09-18 13:31:37 +0900",
       "minecraft:taiga": "2021-09-20 20:49:05 +0900",
@@ -3708,6 +3770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-11-05 22:56:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-09-18 14:16:13 +0900"
@@ -3789,6 +3857,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-09-20 22:41:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2021-11-06 23:27:54 +0900"
     },
     "done": true
   },
@@ -3958,6 +4032,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2021-09-29 22:35:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2021-11-06 23:35:12 +0900"
     },
     "done": true
   },
@@ -4279,6 +4359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2021-11-06 23:35:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2021-09-20 20:52:59 +0900"
@@ -4414,6 +4500,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2021-10-10 21:46:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-11-05 22:51:09 +0900"
     },
     "done": true
   },
@@ -4603,6 +4695,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-11-05 22:56:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2021-11-06 23:27:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-18 13:39:53 +0900"
@@ -4680,6 +4784,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-09-26 17:23:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-11-05 22:56:42 +0900"
     },
     "done": true
   },
