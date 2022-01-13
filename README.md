@@ -21,6 +21,11 @@ java version "16.0.2"
 - LEOScarletGrace
 - mochimochi49
 
+## 使用MOD
+- マインオール
+- ディグオール
+- カットオール
+
 ## 導入方法
 1. Forge 1.17.1をインストール
 2. インストールしたファイルを実行し、◉Server を選択しインストール
