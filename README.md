@@ -6,6 +6,10 @@
 
 ## version
 - Forge 1.17.1
+```
+>java -version
+java version "16.0.2"
+```
 
 ## owner
 - Unpelorin
